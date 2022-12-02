@@ -10,6 +10,8 @@ import {
   World,
 } from "../sections";
 
+//todo: fix bug in explore section.
+
 const Page = () => (
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
